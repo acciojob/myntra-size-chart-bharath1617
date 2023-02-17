@@ -1,7 +1,13 @@
 table{
 	border: 5px solid gray;
 }
+thead{
+	background: lightcoral
+}
 th{
 	width: 100px;
 	border:2px solid black;
+}
+td{
+	border: solid grey;
 }
