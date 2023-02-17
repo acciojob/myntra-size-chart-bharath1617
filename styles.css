@@ -1,6 +1,12 @@
 .body{
-	background: lawngreen;
+	background: lightblue;
 	width:300px;
 }
-
+.heading{
+	border: 2px solid black;
+	background: lightcoral;
+}
+.1{
+	margin: 20px;
+}
 /* Your CSS Code here. */
