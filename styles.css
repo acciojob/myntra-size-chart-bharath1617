@@ -1,12 +1,7 @@
-.body{
-	background: lightblue;
-	width:300px;
+table{
+	border: 5px solid gray;
 }
-.heading{
-	border: 2px solid black;
-	background: lightcoral;
+th{
+	width: 100px;
+	border:2px solid black;
 }
-.1{
-	margin: 20px;
-}
-/* Your CSS Code here. */
