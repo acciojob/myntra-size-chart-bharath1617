@@ -6,6 +6,16 @@ table{
 thead{
 	background: lightcoral;
 }
+.row1{
+	background: lightpink;
+}
+.row2{
+	background: lavenderblush;
+}
+.row3{
+	background:lavender;
+	
+}
 th, td{
 	width: 100px;
 	border:2px solid black;
