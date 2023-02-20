@@ -1,5 +1,6 @@
 table{
-	border: 5px solid gray;
+	border: 2px solid gray;
+	padding:20px;
 }
 thead{
 	background: lightcoral
@@ -7,7 +8,4 @@ thead{
 th{
 	width: 100px;
 	border:2px solid black;
-}
-td{
-	border: solid grey;
 }
